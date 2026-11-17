@@ -1,0 +1,8 @@
+{
+  "best_model": "Moving Average",
+  "best_wape": 0.597,
+  "seasonal_naive_wape": 0.974,
+  "improvement_vs_seasonal_naive_pct": 38.7,
+  "test_weeks": 8,
+  "future_weeks": 8
+}
